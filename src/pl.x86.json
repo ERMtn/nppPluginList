@@ -1105,11 +1105,11 @@
 		{
 			"folder-name": "nppRandomStringGenerator",
 			"display-name": "npp Random String Generator",
-			"version": "1.9.10",
+			"version": "1.9.11",
 			"npp-compatible-versions": "[8.3,]",
 			"old-versions-compatibility": "[,1.3][,8.2.1]",
-			"id": "e0a6b8c8021a1a42a57350b295fabcf4b4a68721cdf5a08fc8d1680349b00efb",
-			"repository": "https://github.com/cmbsolutions/nppRandomStringGenerator/releases/download/v1.9.10/nppRandomStringGenerator.1.9.10.x86.zip",
+			"id": "ea90b892daf9e5870465fb9b80b81b00f8378a1a038837f000999b71b0af9af5",
+			"repository": "https://github.com/cmbsolutions/nppRandomStringGenerator/releases/download/v1.9.11/nppRandomStringGenerator.1.9.11.x86.zip",
 			"description": "Generates random strings with configurable output.",
 			"author": "Maurice CMBSolutions",
 			"homepage": "https://github.com/cmbsolutions/nppRandomStringGenerator"
@@ -1513,11 +1513,11 @@
 		{
 			"folder-name": "PreviewHTML",
 			"display-name": "Preview HTML",
-			"version": "1.4.6.0",
+			"version": "1.4.7.0",
 			"npp-compatible-versions": "[8.4,]",
 			"old-versions-compatibility": "[,1.3.3.1][,8.3.3]",
-			"id": "480f0843574cc14087cd1df92646f105fc773d8579f005ab0e31b08c4ec66926",
-			"repository": "https://github.com/rdipardo/npp_preview/releases/download/v1.4.6.0/PreviewHTML_v1.4.6.0_win32.zip",
+			"id": "3e068c3d7e9779c591b34ae2f6206e4f59baf116ea8160020e63b0342a95cecb",
+			"repository": "https://github.com/rdipardo/npp_preview/releases/download/v1.4.7.0/PreviewHTML_v1.4.7.0_win32.zip",
 			"description": "Preview HTML files inside a WebView2 embedded browser, or preview Markdown, AsciiDoc, etc., rendered as HTML by an external program.",
 			"author": "Martijn Coppoolse",
 			"homepage": "https://github.com/rdipardo/npp_preview"
@@ -1703,6 +1703,17 @@
 			"description": "Allows saving file as administrator with Windows UAC prompt.",
 			"author": "Yauheni Khnykin",
 			"homepage": "https://github.com/Hsilgos/nppsaveasadmin"
+		},
+		{
+			"folder-name": "ScrollMarks",
+			"display-name": "ScrollMarks",
+			"version": "1.1.0",
+			"npp-compatible-versions": "[8.3,]",
+			"id": "4af44b7352cb305f59921f372cc93b4c64ada27fe371e9609dbb42bddaa7db77",
+			"repository": "https://github.com/Hong-Seungmin/ScrollMarks/releases/download/v1.1.0/ScrollMarks_v1.1.0_x86.zip",
+			"description": "Shows where things are in the whole document, in a bar next to the vertical scrollbar: every occurrence of the selected text, bookmarks, change history, find marks, style tokens and the caret. Markers line up with the scrollbar thumb. Click a marker to look there, hover it to preview the lines around it. Previous and next occurrence commands. Defaults follow the Notepad++ settings and theme. English and Korean.",
+			"author": "Hong-Seungmin",
+			"homepage": "https://github.com/Hong-Seungmin/ScrollMarks"
 		},
 		{
 			"folder-name": "SecurePad",
@@ -1998,9 +2009,9 @@
 		{
 			"folder-name": "TreeSitterLexer",
 			"display-name": "TreeSitter",
-			"version": "1.4.2",
-			"id": "b74bc1627a907f7f23c3369d6f706a7e0a944860b49e2f12dc8bb503c10d33e2",
-			"repository": "https://github.com/Thorium/NppTreeSitter/releases/download/1.4.2/NppTreeSitter_1.4.2_Win32.zip",
+			"version": "1.4.3",
+			"id": "25a1359060a6a4824c5da5d7d23c944061eaf1a744f93842769ddbde2574f905",
+			"repository": "https://github.com/Thorium/NppTreeSitter/releases/download/1.4.3/NppTreeSitter_1.4.3_Win32.zip",
 			"description": "Integrate Tree-sitter to Notepad++. AST-based syntax highlighting and code folding for many languages.",
 			"author": "Tuomas Hietanen",
 			"homepage": "https://github.com/Thorium/NppTreeSitter/"
@@ -2100,10 +2111,10 @@
 		{
 			"folder-name": "XBrackets",
 			"display-name": "XBrackets Lite",
-			"version": "1.3.1",
-			"id": "385588c50edde84fbb78617d6118d1ffea116883d81ef8f74dc3bd789a2e8742",
-			"repository": "https://github.com/d0vgan/npp-XBracketsLite/releases/download/v131/XBrackets_v131_dll.zip",
-			"description": "Allows autocompletion of brackets ([{\"\"}])\r\nInserts corresponding right bracket when the left bracket is typed. Uses \"smart\" autocompletion: * next character is analysed for ([{ brackets; * next &amp; previous characters are analysed for \" quote.",
+			"version": "2.0.4",
+			"id": "607d5bde9a598fc0070aec62adfa01fd70b46e8b690fe28bd86351b1090d39a7",
+			"repository": "https://github.com/d0vgan/npp-XBracketsLite/releases/download/XBrackets_v204/XBrackets_v204_dll.zip",
+			"description": "Allows autocompletion of brackets ([{\"\"}])\r\nInserts corresponding right bracket when the left bracket is typed. Uses \"smart\" autocompletion: * next character is analysed for ([{ brackets; * next &amp; previous characters are analysed for \" quote.\r\nSupports user-defined pairs of brackets/quotes.",
 			"author": "Vitaliy Dovgan",
 			"homepage": "https://github.com/d0vgan/npp-XBracketsLite"
 		},
